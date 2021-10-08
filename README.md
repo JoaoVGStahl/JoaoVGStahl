@@ -13,28 +13,38 @@
   <div style="display : inline_block">
       Main Languages:
       <br>
+      <a href="https://github.com/JoaoVGStahl">
       <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </a>
       <br>
       Secondary Languages:
       <br>
+      <a href="https://github.com/JoaoVGStahl"> 
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+      </a>
       <br>
       DataBase:
       <br>
+      <a href="https://github.com/JoaoVGStahl"> </a>
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+      </a>
       <br>
       Cloud:
       <br>
+      <a href="https://github.com/JoaoVGStahl"> </a>
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      </a>
       <br>
       Versioning Tools:
       <br>
+      <a href="https://github.com/JoaoVGStahl"> </a>
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+      </a>
   </div>
   Social:
   <div>
