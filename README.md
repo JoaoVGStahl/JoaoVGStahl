@@ -28,22 +28,29 @@
       <br>
       DataBase:
       <br>
-      <a href="https://github.com/JoaoVGStahl"> </a>
+      <a href="https://github.com/JoaoVGStahl">
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
       </a>
       <br>
       Cloud:
       <br>
-      <a href="https://github.com/JoaoVGStahl"> </a>
+      <a href="https://github.com/JoaoVGStahl"> 
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
       </a>
       <br>
       Versioning Tools:
       <br>
-      <a href="https://github.com/JoaoVGStahl"> </a>
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+      <a href="https://github.com/JoaoVGStahl"> 
+      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </a> 
+      <br>
+      IDE's:
+      <br>
+      <a href="https://github.com/JoaoVGStahl">
+      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       </a>
   </div>
   Social:
