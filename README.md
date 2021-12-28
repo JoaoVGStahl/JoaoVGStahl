@@ -1,6 +1,6 @@
 ## Hello! I am João Vitor Girardi Stahl 👋
 
-- 🌱 I’m currently learning .netCore
+- 🌱 I’m currently learning .net core
 - 📫 How to reach me: jvitorstahl@hotmail.com
 <div>
     <br>
