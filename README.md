@@ -1,6 +1,6 @@
 ## Hello! I am João Vitor Girardi Stahl 👋
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular /  EF Core
 - 📫 How to reach me: jvitorstahl@hotmail.com
 <div>
     <br>
