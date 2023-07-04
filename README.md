@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Flutter /  EF Core
 - 📫 How to reach me: jvitorstahl@hotmail.com
+  <br>
   <div style="display : inline_block">
       <a href="https://github.com/JoaoVGStahl">
       <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
